@@ -60,9 +60,10 @@ In this experiment, I pushed the training to **1200 steps** (approx. 400 epochs 
     * Generate new poses!
 
 ## 👏 Credits
-* **Workflow Design:** [Your Name]
+* **Workflow Design:** Ehsan
 * **Training Nodes:** Based on the excellent work by **Kijai** ([ComfyUI-FluxTrainer](https://github.com/kijai/ComfyUI-FluxTrainer)).
 * **Core Tech:** Qwen Team (Vision Model), Kohya-ss (Training Scripts).
 
 ---
 *Created with ComfyUI on NVIDIA RTX 4080 (12GB).*
+
